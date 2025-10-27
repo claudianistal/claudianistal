@@ -25,5 +25,4 @@
 
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=claudianistal&layout=compact&theme=tokyonight)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=claudianistal&theme=tokyonight)
 
