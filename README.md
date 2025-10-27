@@ -3,7 +3,7 @@
 ### 🚀 Sobre mí
 🎓 Estudiante de Ingeniería Informática del Software en la Universidad de Oviedo
 
-😄 Interesada en la gestión de bases de datos y la seguridad informática
+😄 Interesada en la seguridad informática, el desarrollo de aplicaciones y la informática forense.
 
 ### 🛠️ Tecnologías
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
